@@ -203,12 +203,12 @@ public class Project {
                 if (xCounter == rules) {
                     winner = true;
                     System.out.println(
-                            "Player won! Congratulations! You have just won a trip around the world (at your own expenses)! ");
+                            "Player won! Congratulations!");
                     break;
                 }
                 if (oCounter == rules) {
                     winner = true;
-                    System.out.println("Computer won!!! You lost!!! You idiot!!!");
+                    System.out.println("Computer won!");
                     break;
                 }
             }
@@ -234,12 +234,12 @@ public class Project {
                 if (xCounter == rules) {
                     winner = true;
                     System.out.println(
-                            "Player won! Congratulations! You have just won a trip around the world (at your own expenses)! ");
+                            "Player won! Congratulations!");
                     break;
                 }
                 if (oCounter == rules) {
                     winner = true;
-                    System.out.println("Computer won!!! You lost!!! You idiot!!!");
+                    System.out.println("Computer won!");
                     break;
                 }
             }
@@ -267,12 +267,12 @@ public class Project {
                 if (xCounter == rules) {
                     winner = true;
                     System.out.println(
-                            "Player won! Congratulations! You have just won a trip around the world (at your own expenses)! ");
+                            "Player won! Congratulations!");
                     break;
                 }
                 if (oCounter == rules) {
                     winner = true;
-                    System.out.println("Computer won!!! You lost!!! You idiot!!!");
+                    System.out.println("Computer won!");
                     break;
                 }
             }
@@ -300,12 +300,12 @@ public class Project {
                 if (xCounter == rules) {
                     winner = true;
                     System.out.println(
-                            "Player won! Congratulations! You have just won a trip around the world (at your own expenses)! ");
+                            "Player won! Congratulations!");
                     break;
                 }
                 if (oCounter == rules) {
                     winner = true;
-                    System.out.println("Computer won!!! You lost!!! You idiot!!!");
+                    System.out.println("Computer won!");
                     break;
                 }
             }
