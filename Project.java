@@ -77,7 +77,7 @@ public class Project {
             }
             if ((size - 1) * (size - 1) == drawCounter) {
                 draw = true;
-                System.out.println("It's a draw!!! You couldn't even beat a computer!!! Loser!!!");
+                System.out.println("It's a draw!");
                 break;
             }
             computerPlaceMark();
@@ -91,7 +91,7 @@ public class Project {
             }
             if ((size - 1) * (size - 1) == drawCounter) {
                 draw = true;
-                System.out.println("It's a draw!!! You couldn't even beat a computer!!! Loser!!!");
+                System.out.println("It's a draw!");
                 break;
             }
         }
